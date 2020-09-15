@@ -1,2 +1,2 @@
 # rest-api-spring-boot
-rwst api dibuat dengan spring boot
+rest api dibuat dengan spring boot
